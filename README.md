@@ -1,14 +1,14 @@
-name: "Feature request \U0001F680"
-about: Suggest an idea
-labels: enhancement
+name: "Tristan Toh Yu Shen \U0001F680"
+about: Still Studying
+labels: Cyber Security 
 
 ---
 
 ## Summary
-Brief explanation of the feature.
+I'm a human being who likes to make friends。
 
 ### Basic example
-Include a basic example or links here.
+https://wordpress.org/download/
 
 ### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+Today has to be better than yesterday.
