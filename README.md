@@ -1,6 +1,4 @@
-name: "Tristan Toh Yu Shen \U0001F680"
-about: Still Studying
-labels: Cyber Security 
+Hi,My Name Is Toh Yu Shen
 
 ---
 
